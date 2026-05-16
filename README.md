@@ -2,12 +2,12 @@
 
 # Marcos Vinicius
 
-### FullStack • Always Learning
+### FullStack • Always Learning • Game Development 
 
 <br>
 
 <p>
-  Programador focado em C, C#, Lua e desenvolvimento backend.<br>
+  Programador focado em C, C#, Lua, desenvolvimento desktop e games.<br>
   Amante da tecnologia: low level, backend, simuladores biologicos.
 </p>
 
