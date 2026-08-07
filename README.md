@@ -7,7 +7,7 @@
 <br>
 
 <p>
-  Programador focado em C, C#, Lua, desenvolvimento desktop e games.<br>
+  C, C#, Lua, desenvolvimento desktop e games.<br>
   Amante da tecnologia: low level, backend, simuladores biologicos.
 </p>
 
